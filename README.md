@@ -3,18 +3,16 @@ Content Backlot of Marrow ready Assets
 
 # Changelog
 
-## [1.1.0]
+## [1.2.0]
 
 ### Added
 
-- Grid Prefabs:
-	- Grid Walls
-	- Grid Corners
-	- Grid Ramps
-	- Grid Pillars
-	- Grid Bases
-	- Grid Rooms 
-	- Grid Panels
-- Grid Materials:
-	- Grid Colors
-	- Grid Glowing
+- Fixtures
+    - Button 1x
+    - Button 1.5x
+    - Button 2x
+    - Button 3x
+    - Lever - One Step Momentary Lever
+    - Slider - Zero Step Momentary Slider
+    - Switch - Two Step Toggle Switch
+    - Airlock Door
